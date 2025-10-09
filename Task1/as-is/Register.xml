@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Register" id="6XrrmHd5JQJ7-9miPoh3">
+    <mxGraphModel dx="1426" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ugYU5uY-Q00ZZ2hX5sbB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;strokeColor=#6B7280;" edge="1" parent="1" source="V-Nfn6SSeMRLm45nib72-1" target="V-Nfn6SSeMRLm45nib72-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="320" />
+              <mxPoint x="165" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-1" value="Клиент" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F4F6;strokeColor=#4B5563;fontColor=#111827;arcSize=12;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;strokeColor=#6B7280;" parent="1" source="V-Nfn6SSeMRLm45nib72-4" target="V-Nfn6SSeMRLm45nib72-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="367" y="290" />
+              <mxPoint x="367" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-4" value="1. Регистрация на приём" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#1B5E20;arcSize=12;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="200" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugYU5uY-Q00ZZ2hX5sbB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;strokeColor=#6B7280;" edge="1" parent="1" source="V-Nfn6SSeMRLm45nib72-6" target="V-Nfn6SSeMRLm45nib72-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-6" value="3. Оформление контракта, назначить платёж" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#1B5E20;arcSize=12;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="620" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;strokeColor=#6B7280;" parent="1" source="V-Nfn6SSeMRLm45nib72-10" target="V-Nfn6SSeMRLm45nib72-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="340" />
+              <mxPoint x="577" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugYU5uY-Q00ZZ2hX5sbB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;strokeColor=#6B7280;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V-Nfn6SSeMRLm45nib72-10" target="V-Nfn6SSeMRLm45nib72-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="367" y="340" />
+              <mxPoint x="367" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugYU5uY-Q00ZZ2hX5sbB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;strokeColor=#6B7280;" edge="1" parent="1" source="V-Nfn6SSeMRLm45nib72-10" target="V-Nfn6SSeMRLm45nib72-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="320" />
+              <mxPoint x="577" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-10" value="Администратор" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F4F6;strokeColor=#4B5563;fontColor=#111827;arcSize=12;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="414" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-22" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="790" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-12" value="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=6;fillColor=#E5E7EB;strokeColor=#111827;fontColor=#111827;gradientColor=#D1D5DB;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="V-Nfn6SSeMRLm45nib72-22" vertex="1">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-14" value="Excel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#374151;" parent="V-Nfn6SSeMRLm45nib72-22" vertex="1">
+          <mxGeometry x="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;strokeColor=#6B7280;" parent="1" source="V-Nfn6SSeMRLm45nib72-23" target="V-Nfn6SSeMRLm45nib72-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-23" value="2. Регистрация в журнале записей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#1B5E20;arcSize=12;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="620" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;strokeColor=#6B7280;" parent="1" source="V-Nfn6SSeMRLm45nib72-36" target="V-Nfn6SSeMRLm45nib72-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="370" />
+              <mxPoint x="165" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-Nfn6SSeMRLm45nib72-36" value="4. Передача контракта (счёта)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#1B5E20;arcSize=12;spacing=8;" parent="1" vertex="1">
+          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
